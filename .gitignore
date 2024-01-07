@@ -6,5 +6,7 @@
 # *.[oa]
 # *~
 # workspace.xml
-# git ls-files --others --exclude-from=.idea/workspace.xml
-#git restore .idea/workspace.xml
+
+#ideaworkspace.xml
+#.idea/workspace.xml
+
