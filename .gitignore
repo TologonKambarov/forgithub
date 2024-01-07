@@ -6,6 +6,4 @@
 # *.[oa]
 # *~
 # workspace.xml
-# .idea
-
-1-folder/
+# git ls-files --others --exclude-from=.idea/workspace.xml
