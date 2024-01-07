@@ -7,4 +7,4 @@
 # *~
 # workspace.xml
 # git ls-files --others --exclude-from=.idea/workspace.xml
-1-folder/
+# git ls-files --others --include-from=.idea/workspace.xml
